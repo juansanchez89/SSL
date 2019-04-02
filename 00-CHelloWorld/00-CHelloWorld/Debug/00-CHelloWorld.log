@@ -1,3 +1,0 @@
-﻿  main.c
-c:\users\jetblack\source\gitsintaxis\ssl\00-chelloworld\00-chelloworld\main.c(8): warning C4013: 'getch' undefined; assuming extern returning int
-  00-CHelloWorld.vcxproj -> C:\Users\JetBlack\source\gitsintaxis\ssl\00-CHelloWorld\00-CHelloWorld\Debug\00-CHelloWorld.exe
